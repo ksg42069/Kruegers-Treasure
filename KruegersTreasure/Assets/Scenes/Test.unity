@@ -670,7 +670,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: -8679921383154817045, guid: af7b3d5f20153ea4c82e735e52457a81,
+  m_ModelPrefab: {fileID: -8679921383154817045, guid: d159af78b78aada4189b13d78737e897,
     type: 3}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
@@ -2327,7 +2327,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: -8679921383154817045, guid: 0fee9cdf546df1d4aa40ff72a3a1aede,
+  m_ModelPrefab: {fileID: -8679921383154817045, guid: 5dc45d81d92ddab4296670264e640d0a,
     type: 3}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
