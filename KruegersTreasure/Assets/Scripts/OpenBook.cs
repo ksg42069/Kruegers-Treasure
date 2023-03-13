@@ -5,11 +5,13 @@ using UnityEngine;
 public class OpenBook : MonoBehaviour
 {
     private Animator animator;
+    public GameObject obj;
     
     // Start is called before the first frame update
     void Start()
     {
-        animator = GetComponent<Animator>();
+        animator = obj.GetComponent<Animator>();
+        //obj = GetComponent<GameObject>();
     }
 
     // Update is called once per frame
@@ -22,6 +24,6 @@ public class OpenBook : MonoBehaviour
         bool isOpen = animator.GetBool("Book_open");
 
         animator.SetBool("Book_open", !isOpen);
-
+        
     }
 }
