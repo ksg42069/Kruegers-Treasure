@@ -10,8 +10,8 @@ public class OpenBook : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        animator = obj.GetComponent<Animator>();
-        //obj = GetComponent<GameObject>();
+        animator = GetComponent<Animator>();
+        obj = GetComponent<GameObject>();
     }
 
     // Update is called once per frame
@@ -21,9 +21,11 @@ public class OpenBook : MonoBehaviour
     }
     public void TriggerOpen()
     {
-        bool isOpen = animator.GetBool("Book_open");
+        /*bool isOpen = animator.GetBool("Book_open");
 
-        animator.SetBool("Book_open", !isOpen);
+        animator.SetBool("Book_open", !isOpen);*/
+
+        obj.transform.Rotate(0.0f, 0.0f, -180.0f, Space.Self);
         
     }
 }
