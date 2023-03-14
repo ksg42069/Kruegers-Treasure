@@ -25,7 +25,8 @@ public class OpenBook : MonoBehaviour
 
         animator.SetBool("Book_open", !isOpen);*/
 
-        obj.transform.Rotate(0.0f, 0.0f, -180.0f, Space.Self);
+        //obj.transform.Rotate(0.0f, 0.0f, -180.0f, Space.Self);
+        obj.transform.Rotate(Vector3.up, -180.0f);
         
     }
 }

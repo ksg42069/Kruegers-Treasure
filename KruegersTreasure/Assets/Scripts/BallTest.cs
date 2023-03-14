@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BallTest : MonoBehaviour
 {
-    public float speed = 20.0f;
+    public float speed = 1.0f;
     public GameObject ballSpawn;
     public Transform originalBall;
 
@@ -12,5 +12,7 @@ public class BallTest : MonoBehaviour
     {
         GameObject spawnedBall = Instantiate(ballSpawn, originalBall);
         spawnedBall.GetComponent<Rigidbody>().velocity = speed * originalBall.forward;
+
+        Destroy(spawnedBall, 1);
     }
 }
