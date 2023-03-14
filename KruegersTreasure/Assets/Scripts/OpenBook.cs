@@ -21,12 +21,12 @@ public class OpenBook : MonoBehaviour
     }
     public void TriggerOpen()
     {
-        bool isOpen = animator.GetBool("Book_open");
+        //bool isOpen = animator.GetBool("Book_open");
 
-        animator.SetBool("Book_open", !isOpen);
+        //animator.SetBool("Book_open", !isOpen);
 
         //obj.transform.Rotate(0.0f, 0.0f, -180.0f, Space.Self);
-        //obj.transform.Rotate(Vector3.up, -180.0f);
+        obj.transform.Rotate(Vector3.up, -180.0f);
         
     }
 }
