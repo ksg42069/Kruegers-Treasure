@@ -28,18 +28,20 @@ public class OpenBook : MonoBehaviour
         //obj.transform.Rotate(0.0f, 0.0f, -180.0f, Space.Self);
         //obj.transform.Rotate(Vector3.up, -180.0f);
 
-        if (_open)
+        if (!_open)
         {
             obj_open.SetActive(true);
             obj_close.SetActive(false);
+            _open = true;
         }
-        else
+        if (_open)
         {
             obj_open.SetActive(false);
             obj_close.SetActive(true);
+            _open = false;
         }
-            
 
-        
+
+
     }
 }
