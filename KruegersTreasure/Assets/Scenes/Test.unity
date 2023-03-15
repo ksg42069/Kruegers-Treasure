@@ -1347,7 +1347,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &305522942 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: -3297531733136006352, guid: c305acc8db570934a975c3f5e58f3ab6,
+  m_CorrespondingSourceObject: {fileID: 4354657969361094575, guid: c305acc8db570934a975c3f5e58f3ab6,
     type: 3}
   m_PrefabInstance: {fileID: 305522940}
   m_PrefabAsset: {fileID: 0}
@@ -1509,16 +1509,16 @@ HingeJoint:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 305522942}
-  m_ConnectedBody: {fileID: 0}
+  m_ConnectedBody: {fileID: 305522944}
   m_ConnectedArticulationBody: {fileID: 0}
-  m_Anchor: {x: 0, y: 0.029080698, z: 0}
+  m_Anchor: {x: 0, y: 0.019949585, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
   m_ConnectedAnchor: {x: 0, y: 0, z: 0}
-  m_UseSpring: 1
+  m_UseSpring: 0
   m_Spring:
     spring: 0
-    damper: 1
+    damper: 0
     targetPosition: 0
   m_UseMotor: 0
   m_Motor:
@@ -1527,8 +1527,8 @@ HingeJoint:
     freeSpin: 0
   m_UseLimits: 1
   m_Limits:
-    min: 0
-    max: 180
+    min: 90
+    max: 120
     bounciness: 0
     bounceMinVelocity: 0.2
     contactDistance: 0
