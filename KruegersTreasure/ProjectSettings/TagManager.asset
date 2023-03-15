@@ -14,7 +14,7 @@ TagManager:
   - groundLayer
   - Grab
   - Body
-  - 
+  - IgnoreRayGrab
   - 
   - 
   - 
