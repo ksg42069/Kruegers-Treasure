@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class spawnBook : MonoBehaviour
 {
-    public GameObject bookOpen, bookClosed;
+    public GameObject bookOpen, bookClosed, defBook;
     public Transform mainBook;
     bool _open = false;
     GameObject spawnOpen, spawnClose;
 
     private void Start()
     {
-        spawnClose = Instantiate(bookClosed, mainBook);
+        Destroy(defBook);
     }
     public void OpenTheBook()
     {
