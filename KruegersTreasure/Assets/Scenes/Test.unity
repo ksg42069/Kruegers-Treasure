@@ -1159,7 +1159,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 42e539388c290d24b84d93b8f74bedc5, type: 3}
 --- !u!1 &250998447 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 42e539388c290d24b84d93b8f74bedc5,
+  m_CorrespondingSourceObject: {fileID: -5790743888752385542, guid: 42e539388c290d24b84d93b8f74bedc5,
     type: 3}
   m_PrefabInstance: {fileID: 250998446}
   m_PrefabAsset: {fileID: 0}
@@ -1173,7 +1173,7 @@ Animator:
   m_GameObject: {fileID: 250998447}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 27110d2ce36719047bad7fd9a76b0c83, type: 2}
+  m_Controller: {fileID: 9100000, guid: 6f11dd02e7a539c4b91ddf55dbe2b812, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -6300,7 +6300,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 5
-  m_Range: 10
+  m_Range: 500
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -6357,7 +6357,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1288827349}
   m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
-  m_LocalPosition: {x: -3.42, y: 15.85, z: 210.6}
+  m_LocalPosition: {x: -2.57, y: 19.52, z: 216.43}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
