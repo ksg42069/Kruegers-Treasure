@@ -4,15 +4,25 @@ using UnityEngine;
 
 public class bookanimation : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    Animation ani;
+    bool _open = false;
+
+    private void Start()
     {
-        
+        ani = GetComponent<Animation>();        
     }
 
-    // Update is called once per frame
-    void Update()
+    public void playAnimation()
     {
-        
+        if (!_open)
+        {
+            ani.Play("openBook");
+            _open = true;
+        }
+        if (_open)
+        {
+            ani.Play("closeBook");
+            _open = false;
+        }
     }
 }
