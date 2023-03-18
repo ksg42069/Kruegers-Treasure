@@ -4,16 +4,18 @@ using UnityEngine;
 
 public class bookanimation : MonoBehaviour
 {
-    Animation ani;
+    Animator ani;
     bool _open = false;
 
     private void Start()
     {
-        ani = GetComponent<Animation>();        
+        ani = GetComponent<Animator>();        
     }
 
     public void playAnimation()
     {
+        ani = GetComponent<Animator>();
+
         if (!_open)
         {
             ani.Play("openBook");
@@ -24,5 +26,7 @@ public class bookanimation : MonoBehaviour
             ani.Play("closeBook");
             _open = false;
         }
+
+       
     }
 }
