@@ -5,7 +5,7 @@ using UnityEngine;
 public class OpenBook : MonoBehaviour
 {
     private Animator animator;
-    //public GameObject obj_open,obj_close;
+    public GameObject obj;
     bool isOpen = false;
     
     // Start is called before the first frame update
@@ -23,11 +23,15 @@ public class OpenBook : MonoBehaviour
     {
         //bool isOpen = animator.GetBool("openBook");
 
-        animator.SetBool("isOpen", true);
+        //animator.SetBool("isOpen", true);
+
+        obj.GetComponent<Animator>().Play("openBook");
         
     }
     public void TriggerClose()
     {
-        animator.SetBool("isOpen", false);
+        //animator.SetBool("isOpen", false);
+
+        obj.GetComponent<Animator>().Play("closeBook");
     }
 }
