@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class treasureDoors : MonoBehaviour
 {
-    public GameObject book, doors;
+    public GameObject book, doors, socket;
     public Transform location1;
     public Animator animator;
     void Start()
@@ -17,10 +17,11 @@ public class treasureDoors : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Vector3.Distance(book.transform.position, location1.position)<0.2f)
+        if (Vector3.Distance(book.transform.position, socket.transform.position)<1.0f)
         {
-            //animator.Play("treasuredoor1");
             doors.GetComponent<Animator>().Play("treasuredoor1");
+            
         }
+        
     }
 }
