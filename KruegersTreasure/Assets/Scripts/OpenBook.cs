@@ -34,4 +34,17 @@ public class OpenBook : MonoBehaviour
 
         obj.GetComponent<Animator>().Play("closeBook");
     }
+    public void ActivateTrigger()
+    {
+        if (!isOpen)
+        {
+            animator.Play("openBook");
+            isOpen = true;
+        }
+        else
+        {
+            animator.Play("closeBook");
+            isOpen = false;
+        }
+    }
 }

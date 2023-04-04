@@ -96,7 +96,6 @@ GameObject:
   - component: {fileID: 3786746535640015619}
   - component: {fileID: 3786746535640015623}
   - component: {fileID: 3786746535640015628}
-  - component: {fileID: 3786746535640015621}
   - component: {fileID: 3786746535640015622}
   m_Layer: 7
   m_Name: ClosedBook
@@ -220,25 +219,16 @@ MonoBehaviour:
       m_Calls: []
   m_SelectEntered:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 3786746535640015622}
-        m_TargetAssemblyTypeName: OpenBook, Assembly-CSharp
-        m_MethodName: TriggerOpen
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 5
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Activated:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 3786746535640015622}
         m_TargetAssemblyTypeName: OpenBook, Assembly-CSharp
-        m_MethodName: TriggerClose
+        m_MethodName: ActivateTrigger
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -248,9 +238,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  m_Activated:
-    m_PersistentCalls:
-      m_Calls: []
   m_Deactivated:
     m_PersistentCalls:
       m_Calls: []
@@ -330,18 +317,6 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!114 &3786746535640015621
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3786746535640015626}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e04c6e93766f1a94d952d55442e11225, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &3786746535640015622
 MonoBehaviour:
   m_ObjectHideFlags: 0
