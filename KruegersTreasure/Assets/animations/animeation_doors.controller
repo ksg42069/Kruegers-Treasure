@@ -13,8 +13,8 @@ AnimatorStateMachine:
     m_State: {fileID: -1686724937374152743}
     m_Position: {x: 260, y: 120, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: -2673848584333667682}
-    m_Position: {x: 270, y: 20, z: 0}
+    m_State: {fileID: -3709851669400609100}
+    m_Position: {x: 270, y: 10, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -25,14 +25,14 @@ AnimatorStateMachine:
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -1686724937374152743}
---- !u!1102 &-2673848584333667682
+--- !u!1102 &-3709851669400609100
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 'treasuredoor1 '
+  m_Name: opendoor
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
