@@ -10,7 +10,8 @@ public class BookController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        aniDoors = GetComponent<GameObject>();
+        //aniDoors = GetComponent<GameObject>();
+        aniDoors = gameObject;
         instance = this;
 
     }
