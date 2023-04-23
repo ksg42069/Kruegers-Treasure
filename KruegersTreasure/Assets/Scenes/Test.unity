@@ -2608,6 +2608,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 908470549}
     m_Modifications:
+    - target: {fileID: 703242816374399164, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 703242816374399164, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 703242816374399164, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1107564569191358173, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_RootOrder
@@ -2627,6 +2642,111 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 8.293
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_text
+      value: '<size=36%><color=#66b3ff>Example 2 :</color> Solve 5x+7 = 2x-14
+
+
+        <color=#66b3ff>Solution
+        :</color>
+
+        <align="center">5x+7 = 2x - 14
+
+        5x = 2x-14-7
+
+        5x
+        = 2x-21
+
+        5x-2x = -21
+
+        3x = -21
+
+        x = -7
+
+        </align>
+
+
+        <color=#66b3ff>Example
+        3 :</color> <color=#ff0000>5x-9 = 2x+3</color>
+
+
+        <color=#66b3ff>Solution
+        :</color>
+
+        <align="center">5x-9 = 2x+3
+
+        5x = 2x+_+_
+
+        5x
+        = 2x+_
+
+        5x-_x = _
+
+        _x = _
+
+        <color=#ff0000>x = _</color>
+
+        </size>
+
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.w
+      value: 1.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 4.905
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.y
+      value: 1.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.z
+      value: 4.905
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278190080
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352858550766497805, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3786746535640015620, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -2686,7 +2806,87 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: ClosedBook
+      value: PuzzleBook1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_text
+      value: "<align=\"center\"><u>Algebra</u></align>\n\n<size=40%><color=#66b3ff>1.1
+        Solving Equations having the Variable on\r \n      both Sides</color></size>\n\n<size=36%>An
+        equation is the equality of the values of two\nexpressions. In the equation
+        2x \u2013 3 = 7, the two\r \nexpressions are 2x \u2013 3 and 7. In most examples
+        that\nwe have come across so far, the RHS is just a \r\nnumber. But this
+        need not always be so; both sides \ncould have expressions with variables.
+        For example,\nthe equation 2x \u2013 3 = x + 2 has expressionss with a \nvariable
+        on both sides; the expression on the LHS is \n(2x \u2013 3) and the expressionn
+        on the RHS is (x + 2).\n\n<color=#66b3ff>Example 1 :</color> Solve 2x-3 =
+        x+2\n\n<color=#66b3ff>Solution :</color>\n<align=\"center\">2x-3 = x+2\n2x
+        = x+2+3\n2x = x+5\n2x-x = 5\nx = 5\n</align>\n\n\n</size>\n\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.w
+      value: 1.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 4.905
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.y
+      value: 1.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_margin.z
+      value: 4.905
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_overflowMode
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_isRightToLeft
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278190080
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_enableWordWrapping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -2697,6 +2897,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: -74.348
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 156.066
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e88583110457c94e9ae9a79c6b3973a, type: 3}
@@ -6177,7 +6407,7 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: ClosedBook1
+      value: PuzzleBook2
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -6188,6 +6418,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: -74.104
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 156.497
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e88583110457c94e9ae9a79c6b3973a, type: 3}
@@ -6507,7 +6767,7 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: ClosedBook3
+      value: PuzzleBook4
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -6518,6 +6778,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: -73.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 156.491
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e88583110457c94e9ae9a79c6b3973a, type: 3}
@@ -12363,7 +12653,7 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: ClosedBook2
+      value: PuzzleBook3
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -12374,6 +12664,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: -73.842
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e88583110457c94e9ae9a79c6b3973a, type: 3}
