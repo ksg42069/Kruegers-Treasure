@@ -2806,7 +2806,7 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: PuzzleBook1
+      value: PuzzleBook_4
       objectReference: {fileID: 0}
     - target: {fileID: 4285579579646183709, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -2891,7 +2891,7 @@ PrefabInstance:
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -6407,12 +6407,12 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: PuzzleBook2
+      value: PuzzleBook_1
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -6767,12 +6767,12 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: PuzzleBook4
+      value: PuzzleBook_3
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
@@ -8178,10 +8178,10 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1979162802}
-  - {fileID: 347172593}
   - {fileID: 686083228}
   - {fileID: 1425866082}
   - {fileID: 768862283}
+  - {fileID: 347172593}
   - {fileID: 1671922987}
   - {fileID: 594509790}
   - {fileID: 543450651644999211}
@@ -12653,12 +12653,12 @@ PrefabInstance:
     - target: {fileID: 3786746535640015626, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_Name
-      value: PuzzleBook3
+      value: PuzzleBook_2
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8743002310645535284, guid: 3e88583110457c94e9ae9a79c6b3973a,
         type: 3}
