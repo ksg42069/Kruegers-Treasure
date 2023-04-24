@@ -18,6 +18,7 @@ public class CloseMainGate : MonoBehaviour
         {
             anim.Play();
             sound.Play();
+            this.gameObject.SetActive(false);
         }
         
         
