@@ -156,6 +156,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 14
 =======
   m_RootOrder: 9
@@ -163,6 +164,9 @@ Transform:
 =======
   m_RootOrder: 14
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 14
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &44962359
 GameObject:
@@ -5034,6 +5038,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 9
 =======
   m_RootOrder: 5
@@ -5041,6 +5046,9 @@ Transform:
 =======
   m_RootOrder: 9
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 9
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &428902675
 PrefabInstance:
@@ -5502,6 +5510,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 17
 =======
       value: 11
@@ -5509,6 +5518,9 @@ PrefabInstance:
 =======
       value: 17
 >>>>>>> parent of e020fdf1 (mm)
+=======
+      value: 17
+>>>>>>> parent of 80235d80 (added doors, colliders)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: de42c68c63f66ea46a66bf36c9a32d20,
         type: 3}
@@ -8437,6 +8449,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 13
 =======
   m_RootOrder: 8
@@ -8444,6 +8457,9 @@ Transform:
 =======
   m_RootOrder: 13
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 13
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &757265566
 GameObject:
@@ -8856,6 +8872,7 @@ Transform:
   m_PrefabInstance: {fileID: 762663115}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &767024190
 GameObject:
@@ -8895,6 +8912,8 @@ Transform:
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of d2df1780 (front_door)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!4 &768128097 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b721c5037855f89478fc442bef3ac849,
@@ -9772,6 +9791,40 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 823072896}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &832075163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 832075164}
+  m_Layer: 0
+  m_Name: Attach
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &832075164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 832075163}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0.508, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 623387681}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &836875504
 GameObject:
   m_ObjectHideFlags: 0
@@ -10201,6 +10254,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 5
 =======
   m_RootOrder: 2
@@ -10208,6 +10262,9 @@ Transform:
 =======
   m_RootOrder: 5
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 5
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &873831971
 PrefabInstance:
@@ -10994,6 +11051,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 6
 =======
   m_RootOrder: 3
@@ -11001,6 +11059,9 @@ Transform:
 =======
   m_RootOrder: 6
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 6
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &910990295
 PrefabInstance:
@@ -11551,6 +11612,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966163456}
   m_Mesh: {fileID: 7464435842984547898, guid: 7fe19700c1edc0e4aac757206681d82f, type: 3}
+<<<<<<< HEAD
 --- !u!1 &967478631
 GameObject:
   m_ObjectHideFlags: 0
@@ -11668,6 +11730,8 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1001 &972050728
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15009,6 +15073,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 7
 =======
   m_RootOrder: 4
@@ -15016,6 +15081,9 @@ Transform:
 =======
   m_RootOrder: 7
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 7
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1220333805
 PrefabInstance:
@@ -15526,6 +15594,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 15
 =======
   m_RootOrder: 10
@@ -15533,6 +15602,9 @@ Transform:
 =======
   m_RootOrder: 15
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 15
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1283879931
 PrefabInstance:
@@ -17621,6 +17693,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 11
 =======
   m_RootOrder: 6
@@ -17628,6 +17701,9 @@ Transform:
 =======
   m_RootOrder: 11
 >>>>>>> parent of e020fdf1 (mm)
+=======
+  m_RootOrder: 11
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1464124997
 PrefabInstance:
@@ -22123,6 +22199,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 12
 =======
       value: 7
@@ -22130,6 +22207,9 @@ PrefabInstance:
 =======
       value: 12
 >>>>>>> parent of e020fdf1 (mm)
+=======
+      value: 12
+>>>>>>> parent of 80235d80 (added doors, colliders)
       objectReference: {fileID: 0}
     - target: {fileID: 6598815579406187027, guid: 18ddb545287c546e19cc77dc9fbb2189,
         type: 3}
@@ -24456,6 +24536,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24493,6 +24574,8 @@ MeshFilter:
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &38666295849393562
 GameObject:
   m_ObjectHideFlags: 0
@@ -25499,6 +25582,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+=======
+--- !u!1 &919132149006674719
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 543450652674584997}
+  m_Layer: 0
+  m_Name: gate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &919132149500307687
 GameObject:
   m_ObjectHideFlags: 0
@@ -25707,6 +25809,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 579307996512199533}
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.10740236, y: -0.044417363, z: 0.0035340583}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -25714,6 +25817,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 543450653028637275}
   m_RootOrder: 7
+=======
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.10732625, y: 0.005905874, z: 0.0015215587}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2431557635870073839}
+  m_RootOrder: 5
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1254576364486021451
 Transform:
@@ -25882,6 +25994,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -25952,6 +26065,8 @@ MeshFilter:
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!33 &1417682037726430207
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -26002,8 +26117,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 4a405c69 (Main Gate Close animation and sound)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!23 &1534794458326674969
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26464,6 +26582,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6429644745749564104}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.836998, y: 0.03270626, z: 0.22999573}
@@ -26481,6 +26600,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3956586358457553899}
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 67.235, y: 7.978, z: -148.106}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -26695,6 +26816,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -26727,6 +26849,8 @@ MeshFilter:
 >>>>>>> parent of 6f671327 (idk)
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!33 &2335965258041345220
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -26780,9 +26904,21 @@ Transform:
   m_LocalPosition: {x: -0.000072742805, y: -0.050323255, z: 0.0020184803}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children: []
   m_Father: {fileID: 543450653028637275}
   m_RootOrder: 1
+=======
+  m_Children:
+  - {fileID: 5332296850832100913}
+  - {fileID: 2317722893123284978}
+  - {fileID: 1199958410216349097}
+  - {fileID: 5120979688405062397}
+  - {fileID: 9142964583972961408}
+  - {fileID: 1228736172307850961}
+  m_Father: {fileID: 543450653028637275}
+  m_RootOrder: 0
+>>>>>>> parent of 80235d80 (added doors, colliders)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2461159716163213400
 Transform:
@@ -27876,6 +28012,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -27933,6 +28070,8 @@ GameObject:
 >>>>>>> parent of 6f671327 (idk)
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!23 &3713753914303835504
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28058,6 +28197,36 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+=======
+--- !u!33 &3907129390323929594
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7948229031947870733}
+  m_Mesh: {fileID: 6164926832079871850, guid: c941bc3e79d821c4ab9392d67a717bcb, type: 3}
+--- !u!1 &3930052132415994829
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5976346020030040931}
+  - component: {fileID: 1417682037726430207}
+  - component: {fileID: 5481394076761171845}
+  - component: {fileID: 534941521}
+  m_Layer: 0
+  m_Name: gate_left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &3956586358472797610
 GameObject:
   m_ObjectHideFlags: 0
@@ -28113,6 +28282,7 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -28152,6 +28322,8 @@ Transform:
 >>>>>>> parent of 6f671327 (idk)
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!23 &4191509099366492091
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28283,6 +28455,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &4388512115103221006
@@ -28429,6 +28602,8 @@ MeshFilter:
   m_GameObject: {fileID: 4119153995309747541}
   m_Mesh: {fileID: -2063524446609040354, guid: de42c68c63f66ea46a66bf36c9a32d20, type: 3}
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &4451795430604711928
 GameObject:
   m_ObjectHideFlags: 0
@@ -28460,6 +28635,51 @@ Transform:
   m_Father: {fileID: 5669475623253737298}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+--- !u!23 &4481092616958509807
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7948229031947870733}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 5561349426305759274, guid: c941bc3e79d821c4ab9392d67a717bcb, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!23 &4495414801543470372
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29792,6 +30012,9 @@ Transform:
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!4 &5976346020030040931
 Transform:
   m_ObjectHideFlags: 0
@@ -29825,8 +30048,11 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 4a405c69 (Main Gate Close animation and sound)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &6021518604864938150
 GameObject:
   m_ObjectHideFlags: 0
@@ -30584,6 +30810,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -30634,6 +30861,8 @@ GameObject:
 >>>>>>> parent of 6f671327 (idk)
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!33 &6877443927454366789
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -30684,6 +30913,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -30737,6 +30967,8 @@ Transform:
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &7031551082260753214
 GameObject:
   m_ObjectHideFlags: 0
@@ -30929,6 +31161,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -30995,6 +31228,8 @@ MeshRenderer:
 >>>>>>> parent of 6f671327 (idk)
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!4 &7257044403746963713
 Transform:
   m_ObjectHideFlags: 0
@@ -31217,6 +31452,7 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &7512917728079659497
 Transform:
@@ -31257,6 +31493,8 @@ Transform:
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &7605426649273854025
 GameObject:
   m_ObjectHideFlags: 0
@@ -31561,6 +31799,9 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!1 &7948229031947870733
 GameObject:
   m_ObjectHideFlags: 0
@@ -31687,6 +31928,7 @@ MeshFilter:
   m_GameObject: {fileID: 4340423644332589754}
   m_Mesh: {fileID: 3680687292192122401, guid: 1492b27999c5f314987a25db1abcbd99, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!33 &8074942017220085050
 MeshFilter:
@@ -31745,6 +31987,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -5667961617959078298, guid: fe66233465482444bbc90e0ecdc6eb99, type: 3}
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!4 &8186843737042074378
 Transform:
   m_ObjectHideFlags: 0
@@ -31907,6 +32151,136 @@ Transform:
   m_Father: {fileID: 5948557746096463835}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+--- !u!4 &8383499634065783464
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7948229031947870733}
+  m_LocalRotation: {x: 0, y: -0.5735764, z: 0, w: 0.8191521}
+  m_LocalPosition: {x: 0.000011906249, y: -25.816288, z: 77.48044}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 543450652674584997}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: -70, z: 0}
+--- !u!82 &8383499634065783465
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7948229031947870733}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 5c8c355e420ad9c4fb2a2bc1c5bc511f, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!111 &8383499634065783466
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7948229031947870733}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 83e053e320fa50344b0eae2d83de0d1f, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 83e053e320fa50344b0eae2d83de0d1f, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!33 &8391926344572844645
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -31984,6 +32358,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32055,6 +32430,8 @@ MeshRenderer:
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!4 &8542923705453592956
 Transform:
   m_ObjectHideFlags: 0
@@ -32506,6 +32883,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &8766630680372573637
 GameObject:
@@ -32569,6 +32947,8 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
+>>>>>>> parent of 80235d80 (added doors, colliders)
 --- !u!4 &8836235438740757064
 Transform:
   m_ObjectHideFlags: 0
