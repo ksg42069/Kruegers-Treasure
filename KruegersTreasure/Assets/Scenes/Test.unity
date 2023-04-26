@@ -9071,6 +9071,9 @@ Transform:
   m_PrefabInstance: {fileID: 784845000}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -23840,6 +23843,9 @@ MeshFilter:
   m_GameObject: {fileID: 8488707012343313598}
   m_Mesh: {fileID: 9145891940390304981, guid: bcfe24f282ae7ba4aa2226bede18bac1, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -24962,6 +24968,9 @@ MeshFilter:
   m_GameObject: {fileID: 6631146191449189366}
   m_Mesh: {fileID: -5451849839690123725, guid: 52b1030a735286c4685843e5d6ea4b79, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -25278,6 +25287,9 @@ MeshFilter:
   m_GameObject: {fileID: 7650577587857616030}
   m_Mesh: {fileID: 4148606210856651367, guid: 1ae99efd0d0b1d74d80b4d632d5bc5df, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -26019,7 +26031,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!33 &2332608465101073830
@@ -26364,6 +26379,9 @@ Transform:
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -26864,7 +26882,10 @@ MeshFilter:
   m_Mesh: {fileID: 9042771077998628582, guid: e4c7a844f8701884e9ef0304527b68f4, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!4 &3410411599400873177
@@ -26990,7 +27011,10 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!33 &3625833696690180564
@@ -27113,7 +27137,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!4 &3705681663495666500
@@ -27354,7 +27381,10 @@ MeshFilter:
   m_Mesh: {fileID: -7232389784668429854, guid: 1c1bab0e23d73e04d988ff09e34690f9, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!4 &4163866146863495127
@@ -28044,7 +28074,10 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!4 &4946810816304022961
@@ -28063,6 +28096,9 @@ Transform:
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -28486,7 +28522,10 @@ MeshRenderer:
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!4 &5478440751734768370
@@ -29777,7 +29816,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!33 &6830261519482442028
@@ -29883,6 +29925,9 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -30075,7 +30120,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 --- !u!23 &7255514672457212420
@@ -31278,6 +31326,9 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c05b89fc (added collider to mainDoor)
+=======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
