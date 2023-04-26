@@ -10,6 +10,8 @@ public class Gravity : MonoBehaviour
     public XROrigin rig;
     public LayerMask groundLayer;
     CharacterController character;
+    float fallSpeed;
+    public float gravity = -9.8f;
     void Start()
     {
         character = rig.GetComponent<CharacterController>();
@@ -19,6 +21,17 @@ public class Gravity : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void FixedUpdate()
+    {
+        bool isGrounded = CheckIfGround();
+        if (isGrounded)
+            fallSpeed = 0f;
+        else
+            fallSpeed += gravity * Time.fixedDeltaTime;
+
+        character.Move(Vector3.up * fallSpeed * Time.fixedDeltaTime);
     }
 
     bool CheckIfGround()
