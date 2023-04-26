@@ -4,14 +4,13 @@ using UnityEngine;
 
 public class UnlockDoor : MonoBehaviour
 {
-    public GameObject key, moveDoor, nomoveDoor;
-    public HingeJoint hinge;
+    public GameObject key;
+    
 
     public void GrabKey()
     {
         StartCoroutine(LevelEnd());
-        hinge = moveDoor.GetComponent<HingeJoint>();
-        hinge.useMotor = false;
+        key = GetComponent<GameObject>();
     }
 
     IEnumerator LevelEnd()
@@ -19,12 +18,6 @@ public class UnlockDoor : MonoBehaviour
         yield return new WaitForSeconds(3.0f);
 
         key.SetActive(false);
-        nomoveDoor.SetActive(false);
-
-        moveDoor.SetActive(true);
-
-        yield return new WaitForSeconds(0.5f);
-
-        hinge.useMotor = true;
+        this.GetComponent<Animation>().Play("openDoor");
     }
 }
