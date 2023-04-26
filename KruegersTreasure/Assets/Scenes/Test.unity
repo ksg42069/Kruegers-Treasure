@@ -9080,9 +9080,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -9097,13 +9094,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!1 &787234300
 GameObject:
   m_ObjectHideFlags: 0
@@ -23879,9 +23873,6 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -23896,13 +23887,10 @@ MeshFilter:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!1 &38666295849393562
 GameObject:
   m_ObjectHideFlags: 0
@@ -25031,9 +25019,6 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -25048,13 +25033,10 @@ MeshFilter:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!33 &996387673341149680
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -25377,9 +25359,6 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -25394,13 +25373,10 @@ MeshFilter:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!33 &1417682037726430207
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -26142,9 +26118,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -26160,13 +26133,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!33 &2332608465101073830
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -26522,9 +26492,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -26539,13 +26506,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!1 &2752640908435969500
 GameObject:
   m_ObjectHideFlags: 0
@@ -27046,9 +27010,6 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -27064,13 +27025,10 @@ MeshFilter:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!4 &3410411599400873177
 Transform:
   m_ObjectHideFlags: 0
@@ -27201,9 +27159,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -27219,13 +27174,10 @@ GameObject:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!33 &3625833696690180564
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -27353,9 +27305,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -27371,13 +27320,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!4 &3705681663495666500
 Transform:
   m_ObjectHideFlags: 0
@@ -27623,9 +27569,6 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -27641,13 +27584,10 @@ MeshFilter:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!4 &4163866146863495127
 Transform:
   m_ObjectHideFlags: 0
@@ -28342,9 +28282,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -28360,13 +28297,10 @@ GameObject:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!4 &4946810816304022961
 Transform:
   m_ObjectHideFlags: 0
@@ -28387,9 +28321,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -28404,13 +28335,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!23 &4953232839091069640
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28834,9 +28762,6 @@ MeshRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -28852,13 +28777,10 @@ MeshRenderer:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!4 &5478440751734768370
 Transform:
   m_ObjectHideFlags: 0
@@ -30154,9 +30076,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -30172,13 +30091,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!33 &6830261519482442028
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -30295,9 +30211,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -30312,13 +30225,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!1 &7031551082260753214
 GameObject:
   m_ObjectHideFlags: 0
@@ -30511,9 +30421,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 =======
 =======
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
@@ -30529,13 +30436,10 @@ Transform:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!23 &7255514672457212420
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -31749,9 +31653,6 @@ MeshRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of e5d6236a (wtf)
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
@@ -31766,13 +31667,10 @@ MeshRenderer:
 >>>>>>> parent of adeaab7e (Revert "Merge branch 'main' of https://github.com/ksg42069/Kruegers-Treasure")
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-<<<<<<< HEAD
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
 =======
 >>>>>>> parent of c05b89fc (added collider to mainDoor)
-=======
->>>>>>> parent of e5d6236a (wtf)
 --- !u!4 &8542923705453592956
 Transform:
   m_ObjectHideFlags: 0
