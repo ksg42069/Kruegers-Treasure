@@ -11674,6 +11674,7 @@ Transform:
   - {fileID: 347172593}
   - {fileID: 543450653295298160}
   - {fileID: 967306563}
+  - {fileID: 543450653220614749}
   - {fileID: 1854764346}
   - {fileID: 1819550025}
   - {fileID: 659182466}
@@ -11684,7 +11685,6 @@ Transform:
   - {fileID: 803480529}
   - {fileID: 1700495634}
   - {fileID: 156160879}
-  - {fileID: 543450653220614749}
   - {fileID: 1601311888}
   - {fileID: 290956064}
   - {fileID: 1420422847}
@@ -23956,7 +23956,7 @@ PrefabInstance:
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
@@ -27659,7 +27659,7 @@ Transform:
   - {fileID: 2286593022917610886}
   - {fileID: 436339921322025024}
   m_Father: {fileID: 908470549}
-  m_RootOrder: 23
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &543450653230533660
 Transform:
@@ -36096,8 +36096,8 @@ HingeJoint:
     freeSpin: 0
   m_UseLimits: 1
   m_Limits:
-    min: 90
-    max: 200
+    min: 0
+    max: 100
     bounciness: 0
     bounceMinVelocity: 0.2
     contactDistance: 0
@@ -41141,8 +41141,8 @@ HingeJoint:
     freeSpin: 0
   m_UseLimits: 1
   m_Limits:
-    min: 90
-    max: 200
+    min: 0
+    max: 100
     bounciness: 0
     bounceMinVelocity: 0.2
     contactDistance: 0
